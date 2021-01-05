@@ -1,0 +1,33 @@
+html {
+  background-color: #feeafa;
+  color: #22223b;
+}
+
+header {
+  font-family: "Sofia";
+  text-align: center;
+  padding: 2rem;
+}
+
+h2 {
+  font-family: "Sofia";
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+img {
+  max-width: 300px;
+  max-height: 300px;
+  border: solid;
+  margin: 2rem;
+}
+
+.method {
+  margin: 2rem;
+  margin-top: 5rem;
+  max-width: 50%;
+}

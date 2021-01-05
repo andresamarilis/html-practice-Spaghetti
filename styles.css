@@ -1,0 +1,47 @@
+html {
+    background-color: #aae3f6;
+    color: #0c0b05;
+  }
+  
+  header {
+    font-family: "Verdana";
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  h2 {
+    font-family: "Verdana";
+
+  }
+  
+  .container {
+    justify-content: center;
+    padding: 1rem;
+    
+
+    
+  }
+  
+  img {
+    max-width: 300px;
+    max-height: 200px;
+    border: outset ;
+    margin: 2rem;
+    
+  }
+  
+  .method {
+    margin: 2rem;
+
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em
+    
+  }
+.m2 {
+   text-align: center;
+}
+
+
+  
